@@ -1,2 +1,1 @@
-sparanoid.github.io
-===================
+# sparanoid.github.io => sparanoid.com
